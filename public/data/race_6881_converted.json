@@ -1,0 +1,5047 @@
+[
+  {
+    "category": "2025-bousou300k",
+    "results": [
+      {
+        "順位": "1",
+        "ゼッケン": "A043",
+        "氏名": "宮本　護",
+        "所属": "R-GUN",
+        "部門順位": "男子：1",
+        "pace": "09:33.81",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "04:59:50",
+            "time_second": 17990.0,
+            "time_second_prev": 0,
+            "comment": "1位",
+            "speed": 9.37
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "10:51:04",
+            "time_second": 39064.0,
+            "time_second_prev": 17990.0,
+            "comment": "1位",
+            "speed": 7.79
+          },
+          {
+            "leng": 148.2,
+            "length_prev": 92.4,
+            "time": "19:04:23",
+            "time_second": 68663.0,
+            "time_second_prev": 39064.0,
+            "comment": "1位",
+            "speed": 6.79
+          },
+          {
+            "leng": 173.5,
+            "length_prev": 148.2,
+            "time": "24:05:37",
+            "time_second": 86737.0,
+            "time_second_prev": 68663.0,
+            "comment": "2位",
+            "speed": 5.04
+          },
+          {
+            "leng": 213.6,
+            "length_prev": 173.5,
+            "time": "32:02:00",
+            "time_second": 115320.0,
+            "time_second_prev": 86737.0,
+            "comment": "1位",
+            "speed": 5.05
+          },
+          {
+            "leng": 258.7,
+            "length_prev": 213.6,
+            "time": "41:10:30",
+            "time_second": 148230.0,
+            "time_second_prev": 115320.0,
+            "comment": "1位",
+            "speed": 4.93
+          },
+          {
+            "leng": 279.2,
+            "length_prev": 258.7,
+            "time": "45:25:14",
+            "time_second": 163514.0,
+            "time_second_prev": 148230.0,
+            "comment": "1位",
+            "speed": 4.83
+          },
+          {
+            "leng": 300.0,
+            "length_prev": 279.2,
+            "time": "47:49:05",
+            "time_second": 172145.0,
+            "time_second_prev": 163514.0,
+            "comment": "1位",
+            "speed": 8.68
+          }
+        ]
+      },
+      {
+        "順位": "2",
+        "ゼッケン": "A009",
+        "氏名": "池田　秀次",
+        "所属": "未来の瞳",
+        "部門順位": "男子：2",
+        "pace": "10:32.79",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "05:24:20",
+            "time_second": 19460.0,
+            "time_second_prev": 0,
+            "comment": "3位",
+            "speed": 8.66
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "12:29:53",
+            "time_second": 44993.0,
+            "time_second_prev": 19460.0,
+            "comment": "4位",
+            "speed": 6.43
+          },
+          {
+            "leng": 148.2,
+            "length_prev": 92.4,
+            "time": "22:41:25",
+            "time_second": 81685.0,
+            "time_second_prev": 44993.0,
+            "comment": "7位",
+            "speed": 5.47
+          },
+          {
+            "leng": 173.5,
+            "length_prev": 148.2,
+            "time": "29:02:47",
+            "time_second": 104567.0,
+            "time_second_prev": 81685.0,
+            "comment": "8位",
+            "speed": 3.98
+          },
+          {
+            "leng": 213.6,
+            "length_prev": 173.5,
+            "time": "36:53:40",
+            "time_second": 132820.0,
+            "time_second_prev": 104567.0,
+            "comment": "4位",
+            "speed": 5.11
+          },
+          {
+            "leng": 258.7,
+            "length_prev": 213.6,
+            "time": "45:18:27",
+            "time_second": 163107.0,
+            "time_second_prev": 132820.0,
+            "comment": "4位",
+            "speed": 5.36
+          },
+          {
+            "leng": 279.2,
+            "length_prev": 258.7,
+            "time": "49:00:04",
+            "time_second": 176404.0,
+            "time_second_prev": 163107.0,
+            "comment": "4位",
+            "speed": 5.55
+          },
+          {
+            "leng": 300.0,
+            "length_prev": 279.2,
+            "time": "52:43:58",
+            "time_second": 189838.0,
+            "time_second_prev": 176404.0,
+            "comment": "2位",
+            "speed": 5.57
+          }
+        ]
+      },
+      {
+        "順位": "3",
+        "ゼッケン": "A037",
+        "氏名": "橋野　泰明",
+        "所属": "",
+        "部門順位": "男子：3",
+        "pace": "10:32.80",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "05:43:31",
+            "time_second": 20611.0,
+            "time_second_prev": 0,
+            "comment": "7位",
+            "speed": 8.17
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "12:29:58",
+            "time_second": 44998.0,
+            "time_second_prev": 20611.0,
+            "comment": "5位",
+            "speed": 6.73
+          },
+          {
+            "leng": 148.2,
+            "length_prev": 92.4,
+            "time": "22:36:16",
+            "time_second": 81376.0,
+            "time_second_prev": 44998.0,
+            "comment": "5位",
+            "speed": 5.52
+          },
+          {
+            "leng": 173.5,
+            "length_prev": 148.2,
+            "time": "29:02:46",
+            "time_second": 104566.0,
+            "time_second_prev": 81376.0,
+            "comment": "7位",
+            "speed": 3.93
+          },
+          {
+            "leng": 213.6,
+            "length_prev": 173.5,
+            "time": "36:53:46",
+            "time_second": 132826.0,
+            "time_second_prev": 104566.0,
+            "comment": "5位",
+            "speed": 5.11
+          },
+          {
+            "leng": 258.7,
+            "length_prev": 213.6,
+            "time": "45:18:32",
+            "time_second": 163112.0,
+            "time_second_prev": 132826.0,
+            "comment": "5位",
+            "speed": 5.36
+          },
+          {
+            "leng": 279.2,
+            "length_prev": 258.7,
+            "time": "49:00:06",
+            "time_second": 176406.0,
+            "time_second_prev": 163112.0,
+            "comment": "5位",
+            "speed": 5.55
+          },
+          {
+            "leng": 300.0,
+            "length_prev": 279.2,
+            "time": "52:44:00",
+            "time_second": 189840.0,
+            "time_second_prev": 176406.0,
+            "comment": "3位",
+            "speed": 5.57
+          }
+        ]
+      },
+      {
+        "順位": "4",
+        "ゼッケン": "A045",
+        "氏名": "村田　尚利",
+        "所属": "シンク・ラボラトリー",
+        "部門順位": "男子：4",
+        "pace": "10:34.96",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "05:45:26",
+            "time_second": 20726.0,
+            "time_second_prev": 0,
+            "comment": "8位",
+            "speed": 8.13
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "12:31:21",
+            "time_second": 45081.0,
+            "time_second_prev": 20726.0,
+            "comment": "7位",
+            "speed": 6.74
+          },
+          {
+            "leng": 148.2,
+            "length_prev": 92.4,
+            "time": "21:19:52",
+            "time_second": 76792.0,
+            "time_second_prev": 45081.0,
+            "comment": "3位",
+            "speed": 6.33
+          },
+          {
+            "leng": 173.5,
+            "length_prev": 148.2,
+            "time": "25:51:29",
+            "time_second": 93089.0,
+            "time_second_prev": 76792.0,
+            "comment": "3位",
+            "speed": 5.59
+          },
+          {
+            "leng": 213.6,
+            "length_prev": 173.5,
+            "time": "34:29:38",
+            "time_second": 124178.0,
+            "time_second_prev": 93089.0,
+            "comment": "3位",
+            "speed": 4.64
+          },
+          {
+            "leng": 258.7,
+            "length_prev": 213.6,
+            "time": "44:03:36",
+            "time_second": 158616.0,
+            "time_second_prev": 124178.0,
+            "comment": "3位",
+            "speed": 4.71
+          },
+          {
+            "leng": 279.2,
+            "length_prev": 258.7,
+            "time": "48:05:36",
+            "time_second": 173136.0,
+            "time_second_prev": 158616.0,
+            "comment": "3位",
+            "speed": 5.08
+          },
+          {
+            "leng": 300.0,
+            "length_prev": 279.2,
+            "time": "52:54:50",
+            "time_second": 190490.0,
+            "time_second_prev": 173136.0,
+            "comment": "4位",
+            "speed": 4.31
+          }
+        ]
+      },
+      {
+        "順位": "5",
+        "ゼッケン": "A048",
+        "氏名": "山崎　智裕",
+        "所属": "",
+        "部門順位": "男子：5",
+        "pace": "10:47.30",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "05:00:19",
+            "time_second": 18019.0,
+            "time_second_prev": 0,
+            "comment": "2位",
+            "speed": 9.35
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "11:01:19",
+            "time_second": 39679.0,
+            "time_second_prev": 18019.0,
+            "comment": "2位",
+            "speed": 7.58
+          },
+          {
+            "leng": 148.2,
+            "length_prev": 92.4,
+            "time": "19:33:30",
+            "time_second": 70410.0,
+            "time_second_prev": 39679.0,
+            "comment": "2位",
+            "speed": 6.54
+          },
+          {
+            "leng": 173.5,
+            "length_prev": 148.2,
+            "time": "24:05:02",
+            "time_second": 86702.0,
+            "time_second_prev": 70410.0,
+            "comment": "1位",
+            "speed": 5.59
+          },
+          {
+            "leng": 213.6,
+            "length_prev": 173.5,
+            "time": "33:24:41",
+            "time_second": 120281.0,
+            "time_second_prev": 86702.0,
+            "comment": "2位",
+            "speed": 4.3
+          },
+          {
+            "leng": 258.7,
+            "length_prev": 213.6,
+            "time": "43:30:40",
+            "time_second": 156640.0,
+            "time_second_prev": 120281.0,
+            "comment": "2位",
+            "speed": 4.47
+          },
+          {
+            "leng": 279.2,
+            "length_prev": 258.7,
+            "time": "47:31:09",
+            "time_second": 171069.0,
+            "time_second_prev": 156640.0,
+            "comment": "2位",
+            "speed": 5.11
+          },
+          {
+            "leng": 300.0,
+            "length_prev": 279.2,
+            "time": "53:56:31",
+            "time_second": 194191.0,
+            "time_second_prev": 171069.0,
+            "comment": "5位",
+            "speed": 3.24
+          }
+        ]
+      },
+      {
+        "順位": "6",
+        "ゼッケン": "A020",
+        "氏名": "窪田　淳",
+        "所属": "凹田ガス/新三郷楽走会",
+        "部門順位": "男子：6",
+        "pace": "10:51.44",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "05:55:25",
+            "time_second": 21325.0,
+            "time_second_prev": 0,
+            "comment": "13位",
+            "speed": 7.9
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "12:30:00",
+            "time_second": 45000.0,
+            "time_second_prev": 21325.0,
+            "comment": "6位",
+            "speed": 6.93
+          },
+          {
+            "leng": 148.2,
+            "length_prev": 92.4,
+            "time": "22:40:20",
+            "time_second": 81620.0,
+            "time_second_prev": 45000.0,
+            "comment": "6位",
+            "speed": 5.49
+          },
+          {
+            "leng": 173.5,
+            "length_prev": 148.2,
+            "time": "28:59:34",
+            "time_second": 104374.0,
+            "time_second_prev": 81620.0,
+            "comment": "6位",
+            "speed": 4.0
+          },
+          {
+            "leng": 213.6,
+            "length_prev": 173.5,
+            "time": "37:00:24",
+            "time_second": 133224.0,
+            "time_second_prev": 104374.0,
+            "comment": "6位",
+            "speed": 5.0
+          },
+          {
+            "leng": 258.7,
+            "length_prev": 213.6,
+            "time": "45:52:56",
+            "time_second": 165176.0,
+            "time_second_prev": 133224.0,
+            "comment": "6位",
+            "speed": 5.08
+          },
+          {
+            "leng": 279.2,
+            "length_prev": 258.7,
+            "time": "49:46:45",
+            "time_second": 179205.0,
+            "time_second_prev": 165176.0,
+            "comment": "6位",
+            "speed": 5.26
+          },
+          {
+            "leng": 300.0,
+            "length_prev": 279.2,
+            "time": "54:17:12",
+            "time_second": 195432.0,
+            "time_second_prev": 179205.0,
+            "comment": "6位",
+            "speed": 4.61
+          }
+        ]
+      },
+      {
+        "順位": "7",
+        "ゼッケン": "A024",
+        "氏名": "酒井　宏輔",
+        "所属": "コースＫ",
+        "部門順位": "男子：7",
+        "pace": "10:56.12",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "06:31:15",
+            "time_second": 23475.0,
+            "time_second_prev": 0,
+            "comment": "25位",
+            "speed": 7.18
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "14:14:51",
+            "time_second": 51291.0,
+            "time_second_prev": 23475.0,
+            "comment": "21位",
+            "speed": 5.9
+          },
+          {
+            "leng": 148.2,
+            "length_prev": 92.4,
+            "time": "26:13:37",
+            "time_second": 94417.0,
+            "time_second_prev": 51291.0,
+            "comment": "22位",
+            "speed": 4.66
+          },
+          {
+            "leng": 173.5,
+            "length_prev": 148.2,
+            "time": "29:45:17",
+            "time_second": 107117.0,
+            "time_second_prev": 94417.0,
+            "comment": "10位",
+            "speed": 7.17
+          },
+          {
+            "leng": 213.6,
+            "length_prev": 173.5,
+            "time": "37:57:01",
+            "time_second": 136621.0,
+            "time_second_prev": 107117.0,
+            "comment": "8位",
+            "speed": 4.89
+          },
+          {
+            "leng": 258.7,
+            "length_prev": 213.6,
+            "time": "46:08:01",
+            "time_second": 166081.0,
+            "time_second_prev": 136621.0,
+            "comment": "7位",
+            "speed": 5.51
+          },
+          {
+            "leng": 279.2,
+            "length_prev": 258.7,
+            "time": "49:56:01",
+            "time_second": 179761.0,
+            "time_second_prev": 166081.0,
+            "comment": "7位",
+            "speed": 5.39
+          },
+          {
+            "leng": 300.0,
+            "length_prev": 279.2,
+            "time": "54:40:36",
+            "time_second": 196836.0,
+            "time_second_prev": 179761.0,
+            "comment": "7位",
+            "speed": 4.39
+          }
+        ]
+      },
+      {
+        "順位": "8",
+        "ゼッケン": "A023",
+        "氏名": "小山　智久",
+        "所属": "飛脚",
+        "部門順位": "男子：8",
+        "pace": "10:58.58",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "05:53:31",
+            "time_second": 21211.0,
+            "time_second_prev": 0,
+            "comment": "11位",
+            "speed": 7.94
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "13:17:56",
+            "time_second": 47876.0,
+            "time_second_prev": 21211.0,
+            "comment": "14位",
+            "speed": 6.16
+          },
+          {
+            "leng": 148.2,
+            "length_prev": 92.4,
+            "time": "23:00:30",
+            "time_second": 82830.0,
+            "time_second_prev": 47876.0,
+            "comment": "9位",
+            "speed": 5.75
+          },
+          {
+            "leng": 173.5,
+            "length_prev": 148.2,
+            "time": "28:43:53",
+            "time_second": 103433.0,
+            "time_second_prev": 82830.0,
+            "comment": "4位",
+            "speed": 4.42
+          },
+          {
+            "leng": 213.6,
+            "length_prev": 173.5,
+            "time": "37:12:02",
+            "time_second": 133922.0,
+            "time_second_prev": 103433.0,
+            "comment": "7位",
+            "speed": 4.73
+          },
+          {
+            "leng": 258.7,
+            "length_prev": 213.6,
+            "time": "46:38:06",
+            "time_second": 167886.0,
+            "time_second_prev": 133922.0,
+            "comment": "8位",
+            "speed": 4.78
+          },
+          {
+            "leng": 279.2,
+            "length_prev": 258.7,
+            "time": "49:57:24",
+            "time_second": 179844.0,
+            "time_second_prev": 167886.0,
+            "comment": "8位",
+            "speed": 6.17
+          },
+          {
+            "leng": 300.0,
+            "length_prev": 279.2,
+            "time": "54:52:56",
+            "time_second": 197576.0,
+            "time_second_prev": 179844.0,
+            "comment": "8位",
+            "speed": 4.22
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A032",
+        "氏名": "中西　健一郎",
+        "所属": "ランボーズ",
+        "部門順位": "",
+        "pace": "10:41.30",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "05:35:35",
+            "time_second": 20135.0,
+            "time_second_prev": 0,
+            "comment": "4位",
+            "speed": 8.37
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "12:38:02",
+            "time_second": 45482.0,
+            "time_second_prev": 20135.0,
+            "comment": "8位",
+            "speed": 6.48
+          },
+          {
+            "leng": 148.2,
+            "length_prev": 92.4,
+            "time": "23:53:47",
+            "time_second": 86027.0,
+            "time_second_prev": 45482.0,
+            "comment": "11位",
+            "speed": 4.95
+          },
+          {
+            "leng": 173.5,
+            "length_prev": 148.2,
+            "time": "28:57:46",
+            "time_second": 104266.0,
+            "time_second_prev": 86027.0,
+            "comment": "5位",
+            "speed": 4.99
+          },
+          {
+            "leng": 213.6,
+            "length_prev": 173.5,
+            "time": "38:03:01",
+            "time_second": 136981.0,
+            "time_second_prev": 104266.0,
+            "comment": "9位",
+            "speed": 4.41
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A002",
+        "氏名": "笠原　敏恵",
+        "所属": "ふろとも",
+        "部門順位": "",
+        "pace": "10:41.41",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "05:57:55",
+            "time_second": 21475.0,
+            "time_second_prev": 0,
+            "comment": "14位",
+            "speed": 7.85
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "13:02:17",
+            "time_second": 46937.0,
+            "time_second_prev": 21475.0,
+            "comment": "10位",
+            "speed": 6.45
+          },
+          {
+            "leng": 148.2,
+            "length_prev": 92.4,
+            "time": "23:35:45",
+            "time_second": 84945.0,
+            "time_second_prev": 46937.0,
+            "comment": "10位",
+            "speed": 5.29
+          },
+          {
+            "leng": 173.5,
+            "length_prev": 148.2,
+            "time": "29:06:32",
+            "time_second": 104792.0,
+            "time_second_prev": 84945.0,
+            "comment": "9位",
+            "speed": 4.59
+          },
+          {
+            "leng": 213.6,
+            "length_prev": 173.5,
+            "time": "38:03:26",
+            "time_second": 137006.0,
+            "time_second_prev": 104792.0,
+            "comment": "10位",
+            "speed": 4.48
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A031",
+        "氏名": "竹内　剛博",
+        "所属": "",
+        "部門順位": "",
+        "pace": "11:09.76",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "05:54:43",
+            "time_second": 21283.0,
+            "time_second_prev": 0,
+            "comment": "12位",
+            "speed": 7.92
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "13:12:06",
+            "time_second": 47526.0,
+            "time_second_prev": 21283.0,
+            "comment": "12位",
+            "speed": 6.26
+          },
+          {
+            "leng": 148.2,
+            "length_prev": 92.4,
+            "time": "26:05:08",
+            "time_second": 93908.0,
+            "time_second_prev": 47526.0,
+            "comment": "20位",
+            "speed": 4.33
+          },
+          {
+            "leng": 173.5,
+            "length_prev": 148.2,
+            "time": "32:37:13",
+            "time_second": 117433.0,
+            "time_second_prev": 93908.0,
+            "comment": "18位",
+            "speed": 3.87
+          },
+          {
+            "leng": 213.6,
+            "length_prev": 173.5,
+            "time": "39:44:21",
+            "time_second": 143061.0,
+            "time_second_prev": 117433.0,
+            "comment": "11位",
+            "speed": 5.63
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A015",
+        "氏名": "雲藤　健",
+        "所属": "HALT",
+        "部門順位": "",
+        "pace": "10:28.67",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "06:05:21",
+            "time_second": 21921.0,
+            "time_second_prev": 0,
+            "comment": "16位",
+            "speed": 7.69
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "13:05:41",
+            "time_second": 47141.0,
+            "time_second_prev": 21921.0,
+            "comment": "11位",
+            "speed": 6.51
+          },
+          {
+            "leng": 148.2,
+            "length_prev": 92.4,
+            "time": "22:48:09",
+            "time_second": 82089.0,
+            "time_second_prev": 47141.0,
+            "comment": "8位",
+            "speed": 5.75
+          },
+          {
+            "leng": 173.5,
+            "length_prev": 148.2,
+            "time": "30:17:55",
+            "time_second": 109075.0,
+            "time_second_prev": 82089.0,
+            "comment": "11位",
+            "speed": 3.38
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A035",
+        "氏名": "中村　雅哉",
+        "所属": "トラベルDB",
+        "部門順位": "",
+        "pace": "10:32.98",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "06:00:14",
+            "time_second": 21614.0,
+            "time_second_prev": 0,
+            "comment": "15位",
+            "speed": 7.79
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "13:16:04",
+            "time_second": 47764.0,
+            "time_second_prev": 21614.0,
+            "comment": "13位",
+            "speed": 6.28
+          },
+          {
+            "leng": 148.2,
+            "length_prev": 92.4,
+            "time": "24:00:49",
+            "time_second": 86449.0,
+            "time_second_prev": 47764.0,
+            "comment": "12位",
+            "speed": 5.19
+          },
+          {
+            "leng": 173.5,
+            "length_prev": 148.2,
+            "time": "30:30:23",
+            "time_second": 109823.0,
+            "time_second_prev": 86449.0,
+            "comment": "12位",
+            "speed": 3.9
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A027",
+        "氏名": "すがぽん",
+        "所属": "すがぽん街ラン部",
+        "部門順位": "",
+        "pace": "10:48.30",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "05:47:53",
+            "time_second": 20873.0,
+            "time_second_prev": 0,
+            "comment": "10位",
+            "speed": 8.07
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "14:14:12",
+            "time_second": 51252.0,
+            "time_second_prev": 20873.0,
+            "comment": "20位",
+            "speed": 5.4
+          },
+          {
+            "leng": 148.2,
+            "length_prev": 92.4,
+            "time": "25:15:27",
+            "time_second": 90927.0,
+            "time_second_prev": 51252.0,
+            "comment": "14位",
+            "speed": 5.06
+          },
+          {
+            "leng": 173.5,
+            "length_prev": 148.2,
+            "time": "31:14:41",
+            "time_second": 112481.0,
+            "time_second_prev": 90927.0,
+            "comment": "13位",
+            "speed": 4.23
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A052",
+        "氏名": "吉永　裕之",
+        "所属": "",
+        "部門順位": "",
+        "pace": "10:50.09",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "06:49:18",
+            "time_second": 24558.0,
+            "time_second_prev": 0,
+            "comment": "30位",
+            "speed": 6.86
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "14:17:21",
+            "time_second": 51441.0,
+            "time_second_prev": 24558.0,
+            "comment": "22位",
+            "speed": 6.11
+          },
+          {
+            "leng": 148.2,
+            "length_prev": 92.4,
+            "time": "25:36:03",
+            "time_second": 92163.0,
+            "time_second_prev": 51441.0,
+            "comment": "15位",
+            "speed": 4.93
+          },
+          {
+            "leng": 173.5,
+            "length_prev": 148.2,
+            "time": "31:19:50",
+            "time_second": 112790.0,
+            "time_second_prev": 92163.0,
+            "comment": "14位",
+            "speed": 4.42
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A025",
+        "氏名": "佐々木　英明",
+        "所属": "みつまたロッジ",
+        "部門順位": "",
+        "pace": "10:50.32",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "06:54:27",
+            "time_second": 24867.0,
+            "time_second_prev": 0,
+            "comment": "35位",
+            "speed": 6.78
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "14:41:49",
+            "time_second": 52909.0,
+            "time_second_prev": 24867.0,
+            "comment": "27位",
+            "speed": 5.85
+          },
+          {
+            "leng": 148.2,
+            "length_prev": 92.4,
+            "time": "25:51:28",
+            "time_second": 93088.0,
+            "time_second_prev": 52909.0,
+            "comment": "19位",
+            "speed": 5.0
+          },
+          {
+            "leng": 173.5,
+            "length_prev": 148.2,
+            "time": "31:20:32",
+            "time_second": 112832.0,
+            "time_second_prev": 93088.0,
+            "comment": "15位",
+            "speed": 4.61
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A034",
+        "氏名": "中橋　正",
+        "所属": "",
+        "部門順位": "",
+        "pace": "10:54.86",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "06:51:56",
+            "time_second": 24716.0,
+            "time_second_prev": 0,
+            "comment": "33位",
+            "speed": 6.82
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "14:12:30",
+            "time_second": 51150.0,
+            "time_second_prev": 24716.0,
+            "comment": "19位",
+            "speed": 6.21
+          },
+          {
+            "leng": 148.2,
+            "length_prev": 92.4,
+            "time": "25:03:50",
+            "time_second": 90230.0,
+            "time_second_prev": 51150.0,
+            "comment": "13位",
+            "speed": 5.14
+          },
+          {
+            "leng": 173.5,
+            "length_prev": 148.2,
+            "time": "31:33:39",
+            "time_second": 113619.0,
+            "time_second_prev": 90230.0,
+            "comment": "16位",
+            "speed": 3.89
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A036",
+        "氏名": "成田　玲司",
+        "所属": "",
+        "部門順位": "",
+        "pace": "11:09.02",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "07:04:05",
+            "time_second": 25445.0,
+            "time_second_prev": 0,
+            "comment": "37位",
+            "speed": 6.62
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "14:59:59",
+            "time_second": 53999.0,
+            "time_second_prev": 25445.0,
+            "comment": "34位",
+            "speed": 5.75
+          },
+          {
+            "leng": 148.2,
+            "length_prev": 92.4,
+            "time": "26:05:29",
+            "time_second": 93929.0,
+            "time_second_prev": 53999.0,
+            "comment": "21位",
+            "speed": 5.03
+          },
+          {
+            "leng": 173.5,
+            "length_prev": 148.2,
+            "time": "32:14:36",
+            "time_second": 116076.0,
+            "time_second_prev": 93929.0,
+            "comment": "17位",
+            "speed": 4.11
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A014",
+        "氏名": "梅野　道明",
+        "所属": "ナイスおっさん",
+        "部門順位": "",
+        "pace": "11:16.86",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "06:51:32",
+            "time_second": 24692.0,
+            "time_second_prev": 0,
+            "comment": "32位",
+            "speed": 6.82
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "14:24:28",
+            "time_second": 51868.0,
+            "time_second_prev": 24692.0,
+            "comment": "23位",
+            "speed": 6.04
+          },
+          {
+            "leng": 148.2,
+            "length_prev": 92.4,
+            "time": "27:12:22",
+            "time_second": 97942.0,
+            "time_second_prev": 51868.0,
+            "comment": "24位",
+            "speed": 4.36
+          },
+          {
+            "leng": 173.5,
+            "length_prev": 148.2,
+            "time": "32:37:16",
+            "time_second": 117436.0,
+            "time_second_prev": 97942.0,
+            "comment": "19位",
+            "speed": 4.67
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A003",
+        "氏名": "坂井　真弓",
+        "所属": "",
+        "部門順位": "",
+        "pace": "08:59.02",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "06:07:20",
+            "time_second": 22040.0,
+            "time_second_prev": 0,
+            "comment": "17位",
+            "speed": 7.64
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "12:00:04",
+            "time_second": 43204.0,
+            "time_second_prev": 22040.0,
+            "comment": "3位",
+            "speed": 7.76
+          },
+          {
+            "leng": 148.2,
+            "length_prev": 92.4,
+            "time": "22:11:23",
+            "time_second": 79883.0,
+            "time_second_prev": 43204.0,
+            "comment": "4位",
+            "speed": 5.48
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A005",
+        "氏名": "仙波　澄",
+        "所属": "",
+        "部門順位": "",
+        "pace": "10:24.21",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "05:36:51",
+            "time_second": 20211.0,
+            "time_second_prev": 0,
+            "comment": "6位",
+            "speed": 8.34
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "12:38:36",
+            "time_second": 45516.0,
+            "time_second_prev": 20211.0,
+            "comment": "9位",
+            "speed": 6.49
+          },
+          {
+            "leng": 148.2,
+            "length_prev": 92.4,
+            "time": "25:41:49",
+            "time_second": 92509.0,
+            "time_second_prev": 45516.0,
+            "comment": "16位",
+            "speed": 4.27
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A033",
+        "氏名": "中野　博",
+        "所属": "",
+        "部門順位": "",
+        "pace": "10:24.31",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "06:34:18",
+            "time_second": 23658.0,
+            "time_second_prev": 0,
+            "comment": "26位",
+            "speed": 7.12
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "14:48:34",
+            "time_second": 53314.0,
+            "time_second_prev": 23658.0,
+            "comment": "30位",
+            "speed": 5.54
+          },
+          {
+            "leng": 148.2,
+            "length_prev": 92.4,
+            "time": "25:42:03",
+            "time_second": 92523.0,
+            "time_second_prev": 53314.0,
+            "comment": "17位",
+            "speed": 5.12
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A054",
+        "氏名": "渡邊　賢二",
+        "所属": "",
+        "部門順位": "",
+        "pace": "10:27.76",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "06:17:41",
+            "time_second": 22661.0,
+            "time_second_prev": 0,
+            "comment": "20位",
+            "speed": 7.43
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "14:04:57",
+            "time_second": 50697.0,
+            "time_second_prev": 22661.0,
+            "comment": "18位",
+            "speed": 5.86
+          },
+          {
+            "leng": 148.2,
+            "length_prev": 92.4,
+            "time": "25:50:35",
+            "time_second": 93035.0,
+            "time_second_prev": 50697.0,
+            "comment": "18位",
+            "speed": 4.74
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A038",
+        "氏名": "蓮見　真一",
+        "所属": "太田走友会",
+        "部門順位": "",
+        "pace": "10:40.63",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "06:09:41",
+            "time_second": 22181.0,
+            "time_second_prev": 0,
+            "comment": "18位",
+            "speed": 7.6
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "13:38:38",
+            "time_second": 49118.0,
+            "time_second_prev": 22181.0,
+            "comment": "16位",
+            "speed": 6.09
+          },
+          {
+            "leng": 148.2,
+            "length_prev": 92.4,
+            "time": "26:22:22",
+            "time_second": 94942.0,
+            "time_second_prev": 49118.0,
+            "comment": "23位",
+            "speed": 4.38
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A030",
+        "氏名": "鈴木　文男",
+        "所属": "チームぶんちん",
+        "部門順位": "",
+        "pace": "11:07.36",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "07:14:36",
+            "time_second": 26076.0,
+            "time_second_prev": 0,
+            "comment": "42位",
+            "speed": 6.46
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "15:09:32",
+            "time_second": 54572.0,
+            "time_second_prev": 26076.0,
+            "comment": "35位",
+            "speed": 5.76
+          },
+          {
+            "leng": 148.2,
+            "length_prev": 92.4,
+            "time": "27:28:23",
+            "time_second": 98903.0,
+            "time_second_prev": 54572.0,
+            "comment": "25位",
+            "speed": 4.53
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A019",
+        "氏名": "門脇　健児",
+        "所属": "見沼の風",
+        "部門順位": "",
+        "pace": "08:48.37",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "06:17:46",
+            "time_second": 22666.0,
+            "time_second_prev": 0,
+            "comment": "21位",
+            "speed": 7.43
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "13:33:41",
+            "time_second": 48821.0,
+            "time_second_prev": 22666.0,
+            "comment": "15位",
+            "speed": 6.28
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A006",
+        "氏名": "山本　陽子",
+        "所属": "",
+        "部門順位": "",
+        "pace": "08:59.53",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "06:35:25",
+            "time_second": 23725.0,
+            "time_second_prev": 0,
+            "comment": "27位",
+            "speed": 7.1
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "13:50:52",
+            "time_second": 49852.0,
+            "time_second_prev": 23725.0,
+            "comment": "17位",
+            "speed": 6.28
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A013",
+        "氏名": "内田　芳朗",
+        "所属": "",
+        "部門順位": "",
+        "pace": "09:27.94",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "05:35:55",
+            "time_second": 20155.0,
+            "time_second_prev": 0,
+            "comment": "5位",
+            "speed": 8.36
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "14:34:38",
+            "time_second": 52478.0,
+            "time_second_prev": 20155.0,
+            "comment": "24位",
+            "speed": 5.08
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A018",
+        "氏名": "片岡　茂人",
+        "所属": "まるお製作所RC メタボの会",
+        "部門順位": "",
+        "pace": "09:31.86",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "06:43:20",
+            "time_second": 24200.0,
+            "time_second_prev": 0,
+            "comment": "28位",
+            "speed": 6.96
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "14:40:40",
+            "time_second": 52840.0,
+            "time_second_prev": 24200.0,
+            "comment": "25位",
+            "speed": 5.73
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A008",
+        "氏名": "池田　謙",
+        "所属": "（株）池田樹木医事務所",
+        "部門順位": "",
+        "pace": "09:32.55",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "06:44:26",
+            "time_second": 24266.0,
+            "time_second_prev": 0,
+            "comment": "29位",
+            "speed": 6.94
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "14:41:44",
+            "time_second": 52904.0,
+            "time_second_prev": 24266.0,
+            "comment": "26位",
+            "speed": 5.73
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A017",
+        "氏名": "小倉　佑介",
+        "所属": "SITウルトラマラソン部",
+        "部門順位": "",
+        "pace": "09:36.44",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "06:25:03",
+            "time_second": 23103.0,
+            "time_second_prev": 0,
+            "comment": "23位",
+            "speed": 7.29
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "14:47:43",
+            "time_second": 53263.0,
+            "time_second_prev": 23103.0,
+            "comment": "28位",
+            "speed": 5.44
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A029",
+        "氏名": "杉村　岳",
+        "所属": "杉村精工株式会社",
+        "部門順位": "",
+        "pace": "09:36.95",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "06:53:20",
+            "time_second": 24800.0,
+            "time_second_prev": 0,
+            "comment": "34位",
+            "speed": 6.79
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "14:48:30",
+            "time_second": 53310.0,
+            "time_second_prev": 24800.0,
+            "comment": "29位",
+            "speed": 5.76
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A044",
+        "氏名": "宮森　春樹",
+        "所属": "",
+        "部門順位": "",
+        "pace": "09:37.19",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "06:51:08",
+            "time_second": 24668.0,
+            "time_second_prev": 0,
+            "comment": "31位",
+            "speed": 6.83
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "14:48:52",
+            "time_second": 53332.0,
+            "time_second_prev": 24668.0,
+            "comment": "31位",
+            "speed": 5.73
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A026",
+        "氏名": "佐藤　康幸",
+        "所属": "オール千葉",
+        "部門順位": "",
+        "pace": "09:43.64",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "07:14:10",
+            "time_second": 26050.0,
+            "time_second_prev": 0,
+            "comment": "41位",
+            "speed": 6.47
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "14:58:48",
+            "time_second": 53928.0,
+            "time_second_prev": 26050.0,
+            "comment": "32位",
+            "speed": 5.89
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A001",
+        "氏名": "小沼　裕美",
+        "所属": "日立土浦",
+        "部門順位": "",
+        "pace": "09:43.67",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "07:07:31",
+            "time_second": 25651.0,
+            "time_second_prev": 0,
+            "comment": "38位",
+            "speed": 6.57
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "14:58:51",
+            "time_second": 53931.0,
+            "time_second_prev": 25651.0,
+            "comment": "33位",
+            "speed": 5.8
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A022",
+        "氏名": "桑田　尚之",
+        "所属": "トランスコスモス",
+        "部門順位": "",
+        "pace": "09:53.00",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "07:11:18",
+            "time_second": 25878.0,
+            "time_second_prev": 0,
+            "comment": "39位",
+            "speed": 6.51
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "15:13:13",
+            "time_second": 54793.0,
+            "time_second_prev": 25878.0,
+            "comment": "36位",
+            "speed": 5.68
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A039",
+        "氏名": "布施　光浩",
+        "所属": "チームあろ〜は",
+        "部門順位": "",
+        "pace": "10:01.32",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "07:13:45",
+            "time_second": 26025.0,
+            "time_second_prev": 0,
+            "comment": "40位",
+            "speed": 6.47
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "15:26:02",
+            "time_second": 55562.0,
+            "time_second_prev": 26025.0,
+            "comment": "37位",
+            "speed": 5.56
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A053",
+        "氏名": "若林　隆史",
+        "所属": "ランジョグ",
+        "部門順位": "",
+        "pace": "10:07.16",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "06:55:23",
+            "time_second": 24923.0,
+            "time_second_prev": 0,
+            "comment": "36位",
+            "speed": 6.76
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "15:35:02",
+            "time_second": 56102.0,
+            "time_second_prev": 24923.0,
+            "comment": "38位",
+            "speed": 5.27
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A011",
+        "氏名": "市村　裕紀",
+        "所属": "",
+        "部門順位": "",
+        "pace": "10:13.38",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "06:27:46",
+            "time_second": 23266.0,
+            "time_second_prev": 0,
+            "comment": "24位",
+            "speed": 7.24
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "15:44:36",
+            "time_second": 56676.0,
+            "time_second_prev": 23266.0,
+            "comment": "39位",
+            "speed": 4.91
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A004",
+        "氏名": "新恵　麻由美",
+        "所属": "ナベラン",
+        "部門順位": "",
+        "pace": "10:18.70",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "07:47:03",
+            "time_second": 28023.0,
+            "time_second_prev": 0,
+            "comment": "44位",
+            "speed": 6.01
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "15:52:48",
+            "time_second": 57168.0,
+            "time_second_prev": 28023.0,
+            "comment": "40位",
+            "speed": 5.63
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A042",
+        "氏名": "水口　達志",
+        "所属": "",
+        "部門順位": "",
+        "pace": "10:19.73",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "07:24:45",
+            "time_second": 26685.0,
+            "time_second_prev": 0,
+            "comment": "43位",
+            "speed": 6.31
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "15:54:23",
+            "time_second": 57263.0,
+            "time_second_prev": 26685.0,
+            "comment": "41位",
+            "speed": 5.37
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A049",
+        "氏名": "山﨑　英樹",
+        "所属": "",
+        "部門順位": "",
+        "pace": "11:11.91",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "08:15:30",
+            "time_second": 29730.0,
+            "time_second_prev": 0,
+            "comment": "46位",
+            "speed": 5.67
+          },
+          {
+            "leng": 92.4,
+            "length_prev": 46.8,
+            "time": "17:14:45",
+            "time_second": 62085.0,
+            "time_second_prev": 29730.0,
+            "comment": "42位",
+            "speed": 5.07
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A046",
+        "氏名": "籔本　嘉和",
+        "所属": "BPT",
+        "部門順位": "",
+        "pace": "07:25.36",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "05:47:23",
+            "time_second": 20843.0,
+            "time_second_prev": 0,
+            "comment": "9位",
+            "speed": 8.08
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A028",
+        "氏名": "杉之原　翔一",
+        "所属": "",
+        "部門順位": "",
+        "pace": "07:54.86",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "06:10:23",
+            "time_second": 22223.0,
+            "time_second_prev": 0,
+            "comment": "19位",
+            "speed": 7.58
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A040",
+        "氏名": "水野　敏行",
+        "所属": "",
+        "部門順位": "",
+        "pace": "08:13.37",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "06:24:49",
+            "time_second": 23089.0,
+            "time_second_prev": 0,
+            "comment": "22位",
+            "speed": 7.3
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A012",
+        "氏名": "岩城　克典",
+        "所属": "",
+        "部門順位": "",
+        "pace": "10:06.24",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "07:52:52",
+            "time_second": 28372.0,
+            "time_second_prev": 0,
+            "comment": "45位",
+            "speed": 5.94
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A010",
+        "氏名": "石崎　清和",
+        "所属": "エビラン",
+        "部門順位": "",
+        "pace": "10:35.75",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 46.8,
+            "length_prev": 0,
+            "time": "08:15:53",
+            "time_second": 29753.0,
+            "time_second_prev": 0,
+            "comment": "47位",
+            "speed": 5.66
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "A047",
+        "氏名": "山縣　茂信",
+        "所属": "NWPL",
+        "部門順位": "",
+        "pace": "",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "2025-bousou210k",
+    "results": [
+      {
+        "順位": "1",
+        "ゼッケン": "B126",
+        "氏名": "佐藤　哲平",
+        "所属": "",
+        "部門順位": "男子：1",
+        "pace": "09:13.23",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "06:26:36",
+            "time_second": 23196.0,
+            "time_second_prev": 0,
+            "comment": "1位",
+            "speed": 8.66
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "09:43:35",
+            "time_second": 35015.0,
+            "time_second_prev": 23196.0,
+            "comment": "1位",
+            "speed": 7.71
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "15:55:01",
+            "time_second": 57301.0,
+            "time_second_prev": 35015.0,
+            "comment": "1位",
+            "speed": 6.48
+          },
+          {
+            "leng": 166.3,
+            "length_prev": 121.2,
+            "time": "25:27:13",
+            "time_second": 91633.0,
+            "time_second_prev": 57301.0,
+            "comment": "1位",
+            "speed": 4.73
+          },
+          {
+            "leng": 186.8,
+            "length_prev": 166.3,
+            "time": "28:45:40",
+            "time_second": 103540.0,
+            "time_second_prev": 91633.0,
+            "comment": "1位",
+            "speed": 6.2
+          },
+          {
+            "leng": 207.6,
+            "length_prev": 186.8,
+            "time": "31:54:11",
+            "time_second": 114851.0,
+            "time_second_prev": 103540.0,
+            "comment": "1位",
+            "speed": 6.62
+          }
+        ]
+      },
+      {
+        "順位": "2",
+        "ゼッケン": "B102",
+        "氏名": "小山田　江美",
+        "所属": "",
+        "部門順位": "女子：1",
+        "pace": "09:32.19",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "07:20:44",
+            "time_second": 26444.0,
+            "time_second_prev": 0,
+            "comment": "10位",
+            "speed": 7.6
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "11:01:36",
+            "time_second": 39696.0,
+            "time_second_prev": 26444.0,
+            "comment": "6位",
+            "speed": 6.87
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "17:55:30",
+            "time_second": 64530.0,
+            "time_second_prev": 39696.0,
+            "comment": "2位",
+            "speed": 5.81
+          },
+          {
+            "leng": 166.3,
+            "length_prev": 121.2,
+            "time": "25:45:23",
+            "time_second": 92723.0,
+            "time_second_prev": 64530.0,
+            "comment": "2位",
+            "speed": 5.76
+          },
+          {
+            "leng": 186.8,
+            "length_prev": 166.3,
+            "time": "29:15:57",
+            "time_second": 105357.0,
+            "time_second_prev": 92723.0,
+            "comment": "2位",
+            "speed": 5.84
+          },
+          {
+            "leng": 207.6,
+            "length_prev": 186.8,
+            "time": "32:59:46",
+            "time_second": 118786.0,
+            "time_second_prev": 105357.0,
+            "comment": "2位",
+            "speed": 5.58
+          }
+        ]
+      },
+      {
+        "順位": "3",
+        "ゼッケン": "B123",
+        "氏名": "下司　修",
+        "所属": "",
+        "部門順位": "男子：2",
+        "pace": "10:31.03",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "07:02:05",
+            "time_second": 25325.0,
+            "time_second_prev": 0,
+            "comment": "6位",
+            "speed": 7.93
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "11:01:24",
+            "time_second": 39684.0,
+            "time_second_prev": 25325.0,
+            "comment": "5位",
+            "speed": 6.34
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "18:48:04",
+            "time_second": 67684.0,
+            "time_second_prev": 39684.0,
+            "comment": "5位",
+            "speed": 5.16
+          },
+          {
+            "leng": 166.3,
+            "length_prev": 121.2,
+            "time": "27:51:54",
+            "time_second": 100314.0,
+            "time_second_prev": 67684.0,
+            "comment": "3位",
+            "speed": 4.98
+          },
+          {
+            "leng": 186.8,
+            "length_prev": 166.3,
+            "time": "32:05:51",
+            "time_second": 115551.0,
+            "time_second_prev": 100314.0,
+            "comment": "3位",
+            "speed": 4.84
+          },
+          {
+            "leng": 207.6,
+            "length_prev": 186.8,
+            "time": "36:23:22",
+            "time_second": 131002.0,
+            "time_second_prev": 115551.0,
+            "comment": "3位",
+            "speed": 4.85
+          }
+        ]
+      },
+      {
+        "順位": "4",
+        "ゼッケン": "B105",
+        "氏名": "島田　順子",
+        "所属": "",
+        "部門順位": "女子：2",
+        "pace": "11:06.29",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "08:16:14",
+            "time_second": 29774.0,
+            "time_second_prev": 0,
+            "comment": "21位",
+            "speed": 6.75
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "12:35:05",
+            "time_second": 45305.0,
+            "time_second_prev": 29774.0,
+            "comment": "12位",
+            "speed": 5.86
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "20:04:05",
+            "time_second": 72245.0,
+            "time_second_prev": 45305.0,
+            "comment": "9位",
+            "speed": 5.36
+          },
+          {
+            "leng": 166.3,
+            "length_prev": 121.2,
+            "time": "28:53:59",
+            "time_second": 104039.0,
+            "time_second_prev": 72245.0,
+            "comment": "6位",
+            "speed": 5.11
+          },
+          {
+            "leng": 186.8,
+            "length_prev": 166.3,
+            "time": "33:32:09",
+            "time_second": 120729.0,
+            "time_second_prev": 104039.0,
+            "comment": "4位",
+            "speed": 4.42
+          },
+          {
+            "leng": 207.6,
+            "length_prev": 186.8,
+            "time": "38:25:22",
+            "time_second": 138322.0,
+            "time_second_prev": 120729.0,
+            "comment": "4位",
+            "speed": 4.26
+          }
+        ]
+      },
+      {
+        "順位": "5",
+        "ゼッケン": "B145",
+        "氏名": "矢野　将司",
+        "所属": "竜太練RTRT",
+        "部門順位": "男子：3",
+        "pace": "11:36.67",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "07:01:37",
+            "time_second": 25297.0,
+            "time_second_prev": 0,
+            "comment": "4位",
+            "speed": 7.94
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "11:01:18",
+            "time_second": 39678.0,
+            "time_second_prev": 25297.0,
+            "comment": "4位",
+            "speed": 6.33
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "18:48:13",
+            "time_second": 67693.0,
+            "time_second_prev": 39678.0,
+            "comment": "6位",
+            "speed": 5.15
+          },
+          {
+            "leng": 166.3,
+            "length_prev": 121.2,
+            "time": "29:28:03",
+            "time_second": 106083.0,
+            "time_second_prev": 67693.0,
+            "comment": "7位",
+            "speed": 4.23
+          },
+          {
+            "leng": 186.8,
+            "length_prev": 166.3,
+            "time": "34:47:18",
+            "time_second": 125238.0,
+            "time_second_prev": 106083.0,
+            "comment": "5位",
+            "speed": 3.85
+          },
+          {
+            "leng": 207.6,
+            "length_prev": 186.8,
+            "time": "40:10:29",
+            "time_second": 144629.0,
+            "time_second_prev": 125238.0,
+            "comment": "5位",
+            "speed": 3.86
+          }
+        ]
+      },
+      {
+        "順位": "6",
+        "ゼッケン": "B107",
+        "氏名": "長谷川　聖子",
+        "所属": "",
+        "部門順位": "女子：3",
+        "pace": "11:38.10",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "08:07:16",
+            "time_second": 29236.0,
+            "time_second_prev": 0,
+            "comment": "15位",
+            "speed": 6.87
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "12:37:54",
+            "time_second": 45474.0,
+            "time_second_prev": 29236.0,
+            "comment": "15位",
+            "speed": 5.61
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "21:04:31",
+            "time_second": 75871.0,
+            "time_second_prev": 45474.0,
+            "comment": "12位",
+            "speed": 4.75
+          },
+          {
+            "leng": 166.3,
+            "length_prev": 121.2,
+            "time": "30:57:26",
+            "time_second": 111446.0,
+            "time_second_prev": 75871.0,
+            "comment": "8位",
+            "speed": 4.56
+          },
+          {
+            "leng": 186.8,
+            "length_prev": 166.3,
+            "time": "35:48:06",
+            "time_second": 128886.0,
+            "time_second_prev": 111446.0,
+            "comment": "6位",
+            "speed": 4.23
+          },
+          {
+            "leng": 207.6,
+            "length_prev": 186.8,
+            "time": "40:15:26",
+            "time_second": 144926.0,
+            "time_second_prev": 128886.0,
+            "comment": "6位",
+            "speed": 4.67
+          }
+        ]
+      },
+      {
+        "順位": "7",
+        "ゼッケン": "B140",
+        "氏名": "比田井　貴之",
+        "所属": "信州上田脚尽會",
+        "部門順位": "男子：4",
+        "pace": "11:40.08",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "07:42:53",
+            "time_second": 27773.0,
+            "time_second_prev": 0,
+            "comment": "12位",
+            "speed": 7.23
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "11:54:01",
+            "time_second": 42841.0,
+            "time_second_prev": 27773.0,
+            "comment": "9位",
+            "speed": 6.04
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "19:55:46",
+            "time_second": 71746.0,
+            "time_second_prev": 42841.0,
+            "comment": "8位",
+            "speed": 4.99
+          },
+          {
+            "leng": 166.3,
+            "length_prev": 121.2,
+            "time": "30:58:13",
+            "time_second": 111493.0,
+            "time_second_prev": 71746.0,
+            "comment": "9位",
+            "speed": 4.08
+          },
+          {
+            "leng": 186.8,
+            "length_prev": 166.3,
+            "time": "35:59:42",
+            "time_second": 129582.0,
+            "time_second_prev": 111493.0,
+            "comment": "7位",
+            "speed": 4.08
+          },
+          {
+            "leng": 207.6,
+            "length_prev": 186.8,
+            "time": "40:22:17",
+            "time_second": 145337.0,
+            "time_second_prev": 129582.0,
+            "comment": "7位",
+            "speed": 4.75
+          }
+        ]
+      },
+      {
+        "順位": "8",
+        "ゼッケン": "B144",
+        "氏名": "三井田　明隆",
+        "所属": "チーム　アキちゃん",
+        "部門順位": "男子：5",
+        "pace": "11:53.41",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "09:31:43",
+            "time_second": 34303.0,
+            "time_second_prev": 0,
+            "comment": "37位",
+            "speed": 5.86
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "14:20:33",
+            "time_second": 51633.0,
+            "time_second_prev": 34303.0,
+            "comment": "29位",
+            "speed": 5.26
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "22:06:21",
+            "time_second": 79581.0,
+            "time_second_prev": 51633.0,
+            "comment": "16位",
+            "speed": 5.17
+          },
+          {
+            "leng": 166.3,
+            "length_prev": 121.2,
+            "time": "31:54:10",
+            "time_second": 114850.0,
+            "time_second_prev": 79581.0,
+            "comment": "11位",
+            "speed": 4.6
+          },
+          {
+            "leng": 186.8,
+            "length_prev": 166.3,
+            "time": "36:35:03",
+            "time_second": 131703.0,
+            "time_second_prev": 114850.0,
+            "comment": "9位",
+            "speed": 4.38
+          },
+          {
+            "leng": 207.6,
+            "length_prev": 186.8,
+            "time": "41:08:25",
+            "time_second": 148105.0,
+            "time_second_prev": 131703.0,
+            "comment": "8位",
+            "speed": 4.57
+          }
+        ]
+      },
+      {
+        "順位": "9",
+        "ゼッケン": "B125",
+        "氏名": "小畑　雄司",
+        "所属": "",
+        "部門順位": "男子：6",
+        "pace": "12:14.24",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "08:25:57",
+            "time_second": 30357.0,
+            "time_second_prev": 0,
+            "comment": "23位",
+            "speed": 6.62
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "13:24:17",
+            "time_second": 48257.0,
+            "time_second_prev": 30357.0,
+            "comment": "20位",
+            "speed": 5.09
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "22:01:32",
+            "time_second": 79292.0,
+            "time_second_prev": 48257.0,
+            "comment": "15位",
+            "speed": 4.65
+          },
+          {
+            "leng": 166.3,
+            "length_prev": 121.2,
+            "time": "31:53:55",
+            "time_second": 114835.0,
+            "time_second_prev": 79292.0,
+            "comment": "10位",
+            "speed": 4.57
+          },
+          {
+            "leng": 186.8,
+            "length_prev": 166.3,
+            "time": "36:31:45",
+            "time_second": 131505.0,
+            "time_second_prev": 114835.0,
+            "comment": "8位",
+            "speed": 4.43
+          },
+          {
+            "leng": 207.6,
+            "length_prev": 186.8,
+            "time": "42:20:28",
+            "time_second": 152428.0,
+            "time_second_prev": 131505.0,
+            "comment": "9位",
+            "speed": 3.58
+          }
+        ]
+      },
+      {
+        "順位": "10",
+        "ゼッケン": "B137",
+        "氏名": "中嶋　達哉",
+        "所属": "筑波連山練",
+        "部門順位": "男子：7",
+        "pace": "12:16.27",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "07:20:38",
+            "time_second": 26438.0,
+            "time_second_prev": 0,
+            "comment": "9位",
+            "speed": 7.6
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "12:19:01",
+            "time_second": 44341.0,
+            "time_second_prev": 26438.0,
+            "comment": "10位",
+            "speed": 5.09
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "20:37:27",
+            "time_second": 74247.0,
+            "time_second_prev": 44341.0,
+            "comment": "11位",
+            "speed": 4.83
+          },
+          {
+            "leng": 166.3,
+            "length_prev": 121.2,
+            "time": "32:41:39",
+            "time_second": 117699.0,
+            "time_second_prev": 74247.0,
+            "comment": "13位",
+            "speed": 3.74
+          },
+          {
+            "leng": 186.8,
+            "length_prev": 166.3,
+            "time": "37:25:33",
+            "time_second": 134733.0,
+            "time_second_prev": 117699.0,
+            "comment": "10位",
+            "speed": 4.33
+          },
+          {
+            "leng": 207.6,
+            "length_prev": 186.8,
+            "time": "42:27:29",
+            "time_second": 152849.0,
+            "time_second_prev": 134733.0,
+            "comment": "10位",
+            "speed": 4.13
+          }
+        ]
+      },
+      {
+        "順位": "11",
+        "ゼッケン": "B106",
+        "氏名": "中澤　重美",
+        "所属": "",
+        "部門順位": "女子：4",
+        "pace": "12:16.36",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "08:02:38",
+            "time_second": 28958.0,
+            "time_second_prev": 0,
+            "comment": "13位",
+            "speed": 6.94
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "12:35:16",
+            "time_second": 45316.0,
+            "time_second_prev": 28958.0,
+            "comment": "13位",
+            "speed": 5.57
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "21:05:16",
+            "time_second": 75916.0,
+            "time_second_prev": 45316.0,
+            "comment": "13位",
+            "speed": 4.72
+          },
+          {
+            "leng": 166.3,
+            "length_prev": 121.2,
+            "time": "32:59:25",
+            "time_second": 118765.0,
+            "time_second_prev": 75916.0,
+            "comment": "16位",
+            "speed": 3.79
+          },
+          {
+            "leng": 186.8,
+            "length_prev": 166.3,
+            "time": "37:25:41",
+            "time_second": 134741.0,
+            "time_second_prev": 118765.0,
+            "comment": "11位",
+            "speed": 4.62
+          },
+          {
+            "leng": 207.6,
+            "length_prev": 186.8,
+            "time": "42:27:48",
+            "time_second": 152868.0,
+            "time_second_prev": 134741.0,
+            "comment": "11位",
+            "speed": 4.13
+          }
+        ]
+      },
+      {
+        "順位": "12",
+        "ゼッケン": "B129",
+        "氏名": "下重　祐介",
+        "所属": "秋川2部",
+        "部門順位": "男子：8",
+        "pace": "12:17.15",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "07:41:01",
+            "time_second": 27661.0,
+            "time_second_prev": 0,
+            "comment": "11位",
+            "speed": 7.26
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "12:39:00",
+            "time_second": 45540.0,
+            "time_second_prev": 27661.0,
+            "comment": "16位",
+            "speed": 5.09
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "22:23:10",
+            "time_second": 80590.0,
+            "time_second_prev": 45540.0,
+            "comment": "18位",
+            "speed": 4.12
+          },
+          {
+            "leng": 166.3,
+            "length_prev": 121.2,
+            "time": "32:43:39",
+            "time_second": 117819.0,
+            "time_second_prev": 80590.0,
+            "comment": "14位",
+            "speed": 4.36
+          },
+          {
+            "leng": 186.8,
+            "length_prev": 166.3,
+            "time": "37:32:06",
+            "time_second": 135126.0,
+            "time_second_prev": 117819.0,
+            "comment": "12位",
+            "speed": 4.26
+          },
+          {
+            "leng": 207.6,
+            "length_prev": 186.8,
+            "time": "42:30:33",
+            "time_second": 153033.0,
+            "time_second_prev": 135126.0,
+            "comment": "12位",
+            "speed": 4.18
+          }
+        ]
+      },
+      {
+        "順位": "13",
+        "ゼッケン": "B148",
+        "氏名": "和田　達也",
+        "所属": "佑崇と光葉　じいじ頑張る",
+        "部門順位": "男子：9",
+        "pace": "12:32.95",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "08:04:05",
+            "time_second": 29045.0,
+            "time_second_prev": 0,
+            "comment": "14位",
+            "speed": 6.92
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "12:35:18",
+            "time_second": 45318.0,
+            "time_second_prev": 29045.0,
+            "comment": "14位",
+            "speed": 5.6
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "21:43:40",
+            "time_second": 78220.0,
+            "time_second_prev": 45318.0,
+            "comment": "14位",
+            "speed": 4.39
+          },
+          {
+            "leng": 166.3,
+            "length_prev": 121.2,
+            "time": "33:17:25",
+            "time_second": 119845.0,
+            "time_second_prev": 78220.0,
+            "comment": "17位",
+            "speed": 3.9
+          },
+          {
+            "leng": 186.8,
+            "length_prev": 166.3,
+            "time": "38:28:46",
+            "time_second": 138526.0,
+            "time_second_prev": 119845.0,
+            "comment": "13位",
+            "speed": 3.95
+          },
+          {
+            "leng": 207.6,
+            "length_prev": 186.8,
+            "time": "43:25:13",
+            "time_second": 156313.0,
+            "time_second_prev": 138526.0,
+            "comment": "13位",
+            "speed": 4.21
+          }
+        ]
+      },
+      {
+        "順位": "14",
+        "ゼッケン": "B109",
+        "氏名": "松本　ゆり",
+        "所属": "",
+        "部門順位": "女子：5",
+        "pace": "12:45.41",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "08:15:32",
+            "time_second": 29732.0,
+            "time_second_prev": 0,
+            "comment": "20位",
+            "speed": 6.76
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "13:35:51",
+            "time_second": 48951.0,
+            "time_second_prev": 29732.0,
+            "comment": "21位",
+            "speed": 4.74
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "22:46:13",
+            "time_second": 81973.0,
+            "time_second_prev": 48951.0,
+            "comment": "20位",
+            "speed": 4.37
+          },
+          {
+            "leng": 166.3,
+            "length_prev": 121.2,
+            "time": "34:42:11",
+            "time_second": 124931.0,
+            "time_second_prev": 81973.0,
+            "comment": "22位",
+            "speed": 3.78
+          },
+          {
+            "leng": 186.8,
+            "length_prev": 166.3,
+            "time": "39:10:01",
+            "time_second": 141001.0,
+            "time_second_prev": 124931.0,
+            "comment": "17位",
+            "speed": 4.59
+          },
+          {
+            "leng": 207.6,
+            "length_prev": 186.8,
+            "time": "44:08:19",
+            "time_second": 158899.0,
+            "time_second_prev": 141001.0,
+            "comment": "14位",
+            "speed": 4.18
+          }
+        ]
+      },
+      {
+        "順位": "15",
+        "ゼッケン": "B130",
+        "氏名": "神保　充",
+        "所属": "",
+        "部門順位": "男子：10",
+        "pace": "12:52.41",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "09:11:14",
+            "time_second": 33074.0,
+            "time_second_prev": 0,
+            "comment": "33位",
+            "speed": 6.07
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "14:15:45",
+            "time_second": 51345.0,
+            "time_second_prev": 33074.0,
+            "comment": "28位",
+            "speed": 4.98
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "23:50:49",
+            "time_second": 85849.0,
+            "time_second_prev": 51345.0,
+            "comment": "27位",
+            "speed": 4.18
+          },
+          {
+            "leng": 166.3,
+            "length_prev": 121.2,
+            "time": "34:05:19",
+            "time_second": 122719.0,
+            "time_second_prev": 85849.0,
+            "comment": "19位",
+            "speed": 4.4
+          },
+          {
+            "leng": 186.8,
+            "length_prev": 166.3,
+            "time": "38:33:36",
+            "time_second": 138816.0,
+            "time_second_prev": 122719.0,
+            "comment": "14位",
+            "speed": 4.58
+          },
+          {
+            "leng": 207.6,
+            "length_prev": 186.8,
+            "time": "44:32:33",
+            "time_second": 160353.0,
+            "time_second_prev": 138816.0,
+            "comment": "15位",
+            "speed": 3.48
+          }
+        ]
+      },
+      {
+        "順位": "16",
+        "ゼッケン": "B119",
+        "氏名": "大原　貴浩",
+        "所属": "",
+        "部門順位": "男子：11",
+        "pace": "12:53.69",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "09:05:37",
+            "time_second": 32737.0,
+            "time_second_prev": 0,
+            "comment": "29位",
+            "speed": 6.14
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "14:13:26",
+            "time_second": 51206.0,
+            "time_second_prev": 32737.0,
+            "comment": "27位",
+            "speed": 4.93
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "23:33:05",
+            "time_second": 84785.0,
+            "time_second_prev": 51206.0,
+            "comment": "23位",
+            "speed": 4.3
+          },
+          {
+            "leng": 166.3,
+            "length_prev": 121.2,
+            "time": "34:29:17",
+            "time_second": 124157.0,
+            "time_second_prev": 84785.0,
+            "comment": "21位",
+            "speed": 4.12
+          },
+          {
+            "leng": 186.8,
+            "length_prev": 166.3,
+            "time": "38:57:27",
+            "time_second": 140247.0,
+            "time_second_prev": 124157.0,
+            "comment": "16位",
+            "speed": 4.59
+          },
+          {
+            "leng": 207.6,
+            "length_prev": 186.8,
+            "time": "44:36:58",
+            "time_second": 160618.0,
+            "time_second_prev": 140247.0,
+            "comment": "16位",
+            "speed": 3.68
+          }
+        ]
+      },
+      {
+        "順位": "17",
+        "ゼッケン": "B143",
+        "氏名": "松本　透",
+        "所属": "",
+        "部門順位": "男子：12",
+        "pace": "12:53.73",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "08:13:48",
+            "time_second": 29628.0,
+            "time_second_prev": 0,
+            "comment": "19位",
+            "speed": 6.78
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "13:07:55",
+            "time_second": 47275.0,
+            "time_second_prev": 29628.0,
+            "comment": "18位",
+            "speed": 5.16
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "22:30:43",
+            "time_second": 81043.0,
+            "time_second_prev": 47275.0,
+            "comment": "19位",
+            "speed": 4.28
+          },
+          {
+            "leng": 166.3,
+            "length_prev": 121.2,
+            "time": "34:29:13",
+            "time_second": 124153.0,
+            "time_second_prev": 81043.0,
+            "comment": "20位",
+            "speed": 3.77
+          },
+          {
+            "leng": 186.8,
+            "length_prev": 166.3,
+            "time": "38:57:23",
+            "time_second": 140243.0,
+            "time_second_prev": 124153.0,
+            "comment": "15位",
+            "speed": 4.59
+          },
+          {
+            "leng": 207.6,
+            "length_prev": 186.8,
+            "time": "44:37:08",
+            "time_second": 160628.0,
+            "time_second_prev": 140243.0,
+            "comment": "17位",
+            "speed": 3.67
+          }
+        ]
+      },
+      {
+        "順位": "18",
+        "ゼッケン": "B103",
+        "氏名": "佐藤　玲子",
+        "所属": "",
+        "部門順位": "女子：6",
+        "pace": "12:54.72",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "09:06:11",
+            "time_second": 32771.0,
+            "time_second_prev": 0,
+            "comment": "30位",
+            "speed": 6.13
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "14:21:08",
+            "time_second": 51668.0,
+            "time_second_prev": 32771.0,
+            "comment": "31位",
+            "speed": 4.82
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "23:44:47",
+            "time_second": 85487.0,
+            "time_second_prev": 51668.0,
+            "comment": "25位",
+            "speed": 4.27
+          },
+          {
+            "leng": 166.3,
+            "length_prev": 121.2,
+            "time": "35:10:35",
+            "time_second": 126635.0,
+            "time_second_prev": 85487.0,
+            "comment": "25位",
+            "speed": 3.95
+          },
+          {
+            "leng": 186.8,
+            "length_prev": 166.3,
+            "time": "39:45:59",
+            "time_second": 143159.0,
+            "time_second_prev": 126635.0,
+            "comment": "20位",
+            "speed": 4.47
+          },
+          {
+            "leng": 207.6,
+            "length_prev": 186.8,
+            "time": "44:40:33",
+            "time_second": 160833.0,
+            "time_second_prev": 143159.0,
+            "comment": "18位",
+            "speed": 4.24
+          }
+        ]
+      },
+      {
+        "順位": "19",
+        "ゼッケン": "B114",
+        "氏名": "石橋　丈史",
+        "所属": "",
+        "部門順位": "男子：13",
+        "pace": "12:58.17",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "08:08:48",
+            "time_second": 29328.0,
+            "time_second_prev": 0,
+            "comment": "17位",
+            "speed": 6.85
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "12:51:24",
+            "time_second": 46284.0,
+            "time_second_prev": 29328.0,
+            "comment": "17位",
+            "speed": 5.37
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "23:13:28",
+            "time_second": 83608.0,
+            "time_second_prev": 46284.0,
+            "comment": "21位",
+            "speed": 3.87
+          },
+          {
+            "leng": 166.3,
+            "length_prev": 121.2,
+            "time": "35:24:18",
+            "time_second": 127458.0,
+            "time_second_prev": 83608.0,
+            "comment": "26位",
+            "speed": 3.7
+          },
+          {
+            "leng": 186.8,
+            "length_prev": 166.3,
+            "time": "39:57:36",
+            "time_second": 143856.0,
+            "time_second_prev": 127458.0,
+            "comment": "22位",
+            "speed": 4.5
+          },
+          {
+            "leng": 207.6,
+            "length_prev": 186.8,
+            "time": "44:52:28",
+            "time_second": 161548.0,
+            "time_second_prev": 143856.0,
+            "comment": "19位",
+            "speed": 4.23
+          }
+        ]
+      },
+      {
+        "順位": "20",
+        "ゼッケン": "B110",
+        "氏名": "ゆうゆ",
+        "所属": "豚貴族",
+        "部門順位": "女子：7",
+        "pace": "12:59.67",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "09:14:37",
+            "time_second": 33277.0,
+            "time_second_prev": 0,
+            "comment": "36位",
+            "speed": 6.04
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "14:55:17",
+            "time_second": 53717.0,
+            "time_second_prev": 33277.0,
+            "comment": "35位",
+            "speed": 4.46
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "24:01:24",
+            "time_second": 86484.0,
+            "time_second_prev": 53717.0,
+            "comment": "28位",
+            "speed": 4.41
+          },
+          {
+            "leng": 166.3,
+            "length_prev": 121.2,
+            "time": "34:51:11",
+            "time_second": 125471.0,
+            "time_second_prev": 86484.0,
+            "comment": "23位",
+            "speed": 4.16
+          },
+          {
+            "leng": 186.8,
+            "length_prev": 166.3,
+            "time": "39:42:26",
+            "time_second": 142946.0,
+            "time_second_prev": 125471.0,
+            "comment": "19位",
+            "speed": 4.22
+          },
+          {
+            "leng": 207.6,
+            "length_prev": 186.8,
+            "time": "44:57:40",
+            "time_second": 161860.0,
+            "time_second_prev": 142946.0,
+            "comment": "20位",
+            "speed": 3.96
+          }
+        ]
+      },
+      {
+        "順位": "21",
+        "ゼッケン": "B121",
+        "氏名": "河野　涼",
+        "所属": "Team 無線 RUN",
+        "部門順位": "男子：14",
+        "pace": "12:59.68",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "08:11:05",
+            "time_second": 29465.0,
+            "time_second_prev": 0,
+            "comment": "18位",
+            "speed": 6.82
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "14:10:01",
+            "time_second": 51001.0,
+            "time_second_prev": 29465.0,
+            "comment": "26位",
+            "speed": 4.23
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "24:07:54",
+            "time_second": 86874.0,
+            "time_second_prev": 51001.0,
+            "comment": "29位",
+            "speed": 4.02
+          },
+          {
+            "leng": 166.3,
+            "length_prev": 121.2,
+            "time": "34:54:12",
+            "time_second": 125652.0,
+            "time_second_prev": 86874.0,
+            "comment": "24位",
+            "speed": 4.19
+          },
+          {
+            "leng": 186.8,
+            "length_prev": 166.3,
+            "time": "39:46:02",
+            "time_second": 143162.0,
+            "time_second_prev": 125652.0,
+            "comment": "21位",
+            "speed": 4.21
+          },
+          {
+            "leng": 207.6,
+            "length_prev": 186.8,
+            "time": "44:57:41",
+            "time_second": 161861.0,
+            "time_second_prev": 143162.0,
+            "comment": "21位",
+            "speed": 4.0
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "B113",
+        "氏名": "石橋　功",
+        "所属": "",
+        "部門順位": "",
+        "pace": "12:35.60",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "09:31:47",
+            "time_second": 34307.0,
+            "time_second_prev": 0,
+            "comment": "38位",
+            "speed": 5.86
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "14:20:39",
+            "time_second": 51639.0,
+            "time_second_prev": 34307.0,
+            "comment": "30位",
+            "speed": 5.26
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "22:18:41",
+            "time_second": 80321.0,
+            "time_second_prev": 51639.0,
+            "comment": "17位",
+            "speed": 5.03
+          },
+          {
+            "leng": 166.3,
+            "length_prev": 121.2,
+            "time": "34:05:06",
+            "time_second": 122706.0,
+            "time_second_prev": 80321.0,
+            "comment": "18位",
+            "speed": 3.83
+          },
+          {
+            "leng": 186.8,
+            "length_prev": 166.3,
+            "time": "39:12:27",
+            "time_second": 141147.0,
+            "time_second_prev": 122706.0,
+            "comment": "18位",
+            "speed": 4.0
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "B142",
+        "氏名": "前田　達哉",
+        "所属": "",
+        "部門順位": "",
+        "pace": "10:14.12",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "07:02:16",
+            "time_second": 25336.0,
+            "time_second_prev": 0,
+            "comment": "7位",
+            "speed": 7.93
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "11:01:42",
+            "time_second": 39702.0,
+            "time_second_prev": 25336.0,
+            "comment": "7位",
+            "speed": 6.34
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "18:37:40",
+            "time_second": 67060.0,
+            "time_second_prev": 39702.0,
+            "comment": "3位",
+            "speed": 5.28
+          },
+          {
+            "leng": 166.3,
+            "length_prev": 121.2,
+            "time": "28:22:09",
+            "time_second": 102129.0,
+            "time_second_prev": 67060.0,
+            "comment": "4位",
+            "speed": 4.63
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "B112",
+        "氏名": "浅野　浩一",
+        "所属": "OIREC千葉",
+        "部門順位": "",
+        "pace": "10:14.16",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "07:01:55",
+            "time_second": 25315.0,
+            "time_second_prev": 0,
+            "comment": "5位",
+            "speed": 7.94
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "11:13:21",
+            "time_second": 40401.0,
+            "time_second_prev": 25315.0,
+            "comment": "8位",
+            "speed": 6.04
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "18:44:15",
+            "time_second": 67455.0,
+            "time_second_prev": 40401.0,
+            "comment": "4位",
+            "speed": 5.34
+          },
+          {
+            "leng": 166.3,
+            "length_prev": 121.2,
+            "time": "28:22:14",
+            "time_second": 102134.0,
+            "time_second_prev": 67455.0,
+            "comment": "5位",
+            "speed": 4.68
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "B131",
+        "氏名": "杉山　修",
+        "所属": "",
+        "部門順位": "",
+        "pace": "11:33.15",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "06:36:35",
+            "time_second": 23795.0,
+            "time_second_prev": 0,
+            "comment": "2位",
+            "speed": 8.44
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "09:54:59",
+            "time_second": 35699.0,
+            "time_second_prev": 23795.0,
+            "comment": "2位",
+            "speed": 7.65
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "19:12:10",
+            "time_second": 69130.0,
+            "time_second_prev": 35699.0,
+            "comment": "7位",
+            "speed": 4.32
+          },
+          {
+            "leng": 166.3,
+            "length_prev": 121.2,
+            "time": "32:01:11",
+            "time_second": 115271.0,
+            "time_second_prev": 69130.0,
+            "comment": "12位",
+            "speed": 3.52
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "B116",
+        "氏名": "于　ニンイ",
+        "所属": "無線RUN",
+        "部門順位": "",
+        "pace": "11:53.78",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "07:16:54",
+            "time_second": 26214.0,
+            "time_second_prev": 0,
+            "comment": "8位",
+            "speed": 7.66
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "12:19:26",
+            "time_second": 44366.0,
+            "time_second_prev": 26214.0,
+            "comment": "11位",
+            "speed": 5.02
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "20:11:55",
+            "time_second": 72715.0,
+            "time_second_prev": 44366.0,
+            "comment": "10位",
+            "speed": 5.09
+          },
+          {
+            "leng": 166.3,
+            "length_prev": 121.2,
+            "time": "32:58:22",
+            "time_second": 118702.0,
+            "time_second_prev": 72715.0,
+            "comment": "15位",
+            "speed": 3.53
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "B134",
+        "氏名": "高野　尚史",
+        "所属": "CR.m",
+        "部門順位": "",
+        "pace": "13:13.90",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "08:23:05",
+            "time_second": 30185.0,
+            "time_second_prev": 0,
+            "comment": "22位",
+            "speed": 6.65
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "13:39:01",
+            "time_second": 49141.0,
+            "time_second_prev": 30185.0,
+            "comment": "23位",
+            "speed": 4.8
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "23:43:42",
+            "time_second": 85422.0,
+            "time_second_prev": 49141.0,
+            "comment": "24位",
+            "speed": 3.98
+          },
+          {
+            "leng": 166.3,
+            "length_prev": 121.2,
+            "time": "36:40:26",
+            "time_second": 132026.0,
+            "time_second_prev": 85422.0,
+            "comment": "27位",
+            "speed": 3.48
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "B132",
+        "氏名": "鈴木　隆一",
+        "所属": "いわきトライトレイル",
+        "部門順位": "",
+        "pace": "13:14.03",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "08:26:53",
+            "time_second": 30413.0,
+            "time_second_prev": 0,
+            "comment": "24位",
+            "speed": 6.61
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "13:38:57",
+            "time_second": 49137.0,
+            "time_second_prev": 30413.0,
+            "comment": "22位",
+            "speed": 4.86
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "23:46:57",
+            "time_second": 85617.0,
+            "time_second_prev": 49137.0,
+            "comment": "26位",
+            "speed": 3.96
+          },
+          {
+            "leng": 166.3,
+            "length_prev": 121.2,
+            "time": "36:40:47",
+            "time_second": 132047.0,
+            "time_second_prev": 85617.0,
+            "comment": "28位",
+            "speed": 3.5
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "B118",
+        "氏名": "浮須　健司",
+        "所属": "CR.m",
+        "部門順位": "",
+        "pace": "11:39.41",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "09:04:59",
+            "time_second": 32699.0,
+            "time_second_prev": 0,
+            "comment": "28位",
+            "speed": 6.14
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "13:46:41",
+            "time_second": 49601.0,
+            "time_second_prev": 32699.0,
+            "comment": "24位",
+            "speed": 5.39
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "23:32:48",
+            "time_second": 84768.0,
+            "time_second_prev": 49601.0,
+            "comment": "22位",
+            "speed": 4.1
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "B124",
+        "氏名": "後藤　浩",
+        "所属": "ゴトー・オレンジピールチョコレート",
+        "部門順位": "",
+        "pace": "12:34.13",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "09:06:18",
+            "time_second": 32778.0,
+            "time_second_prev": 0,
+            "comment": "31位",
+            "speed": 6.13
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "14:21:10",
+            "time_second": 51670.0,
+            "time_second_prev": 32778.0,
+            "comment": "32位",
+            "speed": 4.82
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "25:23:21",
+            "time_second": 91401.0,
+            "time_second_prev": 51670.0,
+            "comment": "30位",
+            "speed": 3.63
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "B108",
+        "氏名": "細田　晴美",
+        "所属": "",
+        "部門順位": "",
+        "pace": "12:34.19",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "09:06:23",
+            "time_second": 32783.0,
+            "time_second_prev": 0,
+            "comment": "32位",
+            "speed": 6.13
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "14:21:13",
+            "time_second": 51673.0,
+            "time_second_prev": 32783.0,
+            "comment": "33位",
+            "speed": 4.82
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "25:23:28",
+            "time_second": 91408.0,
+            "time_second_prev": 51673.0,
+            "comment": "31位",
+            "speed": 3.63
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "B141",
+        "氏名": "堀池　計年",
+        "所属": "",
+        "部門順位": "",
+        "pace": "12:36.09",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "09:00:22",
+            "time_second": 32422.0,
+            "time_second_prev": 0,
+            "comment": "27位",
+            "speed": 6.2
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "14:05:41",
+            "time_second": 50741.0,
+            "time_second_prev": 32422.0,
+            "comment": "25位",
+            "speed": 4.97
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "25:27:19",
+            "time_second": 91639.0,
+            "time_second_prev": 50741.0,
+            "comment": "32位",
+            "speed": 3.53
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "B122",
+        "氏名": "黒田　昌宏",
+        "所属": "",
+        "部門順位": "",
+        "pace": "13:07.12",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "09:33:43",
+            "time_second": 34423.0,
+            "time_second_prev": 0,
+            "comment": "39位",
+            "speed": 5.84
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "15:12:19",
+            "time_second": 54739.0,
+            "time_second_prev": 34423.0,
+            "comment": "36位",
+            "speed": 4.48
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "26:29:59",
+            "time_second": 95399.0,
+            "time_second_prev": 54739.0,
+            "comment": "33位",
+            "speed": 3.55
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "B111",
+        "氏名": "芳村　裕子",
+        "所属": "れこんきすた",
+        "部門順位": "",
+        "pace": "13:41.83",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "09:46:55",
+            "time_second": 35215.0,
+            "time_second_prev": 0,
+            "comment": "41位",
+            "speed": 5.7
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "15:59:04",
+            "time_second": 57544.0,
+            "time_second_prev": 35215.0,
+            "comment": "39位",
+            "speed": 4.08
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "27:40:06",
+            "time_second": 99606.0,
+            "time_second_prev": 57544.0,
+            "comment": "34位",
+            "speed": 3.43
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "B147",
+        "氏名": "芳村　徹",
+        "所属": "れこんきすた",
+        "部門順位": "",
+        "pace": "13:41.87",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "09:47:04",
+            "time_second": 35224.0,
+            "time_second_prev": 0,
+            "comment": "42位",
+            "speed": 5.7
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "15:58:59",
+            "time_second": 57539.0,
+            "time_second_prev": 35224.0,
+            "comment": "38位",
+            "speed": 4.08
+          },
+          {
+            "leng": 121.2,
+            "length_prev": 81.1,
+            "time": "27:40:11",
+            "time_second": 99611.0,
+            "time_second_prev": 57539.0,
+            "comment": "35位",
+            "speed": 3.43
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "B146",
+        "氏名": "山本　宙",
+        "所属": "",
+        "部門順位": "",
+        "pace": "07:49.98",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "06:45:41",
+            "time_second": 24341.0,
+            "time_second_prev": 0,
+            "comment": "3位",
+            "speed": 8.25
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "10:35:16",
+            "time_second": 38116.0,
+            "time_second_prev": 24341.0,
+            "comment": "3位",
+            "speed": 6.61
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "B115",
+        "氏名": "井元　工治",
+        "所属": "",
+        "部門順位": "",
+        "pace": "09:46.70",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "08:08:42",
+            "time_second": 29322.0,
+            "time_second_prev": 0,
+            "comment": "16位",
+            "speed": 6.85
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "13:13:02",
+            "time_second": 47582.0,
+            "time_second_prev": 29322.0,
+            "comment": "19位",
+            "speed": 4.99
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "B127",
+        "氏名": "佐藤　利夫",
+        "所属": "",
+        "部門順位": "",
+        "pace": "10:40.15",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "08:56:58",
+            "time_second": 32218.0,
+            "time_second_prev": 0,
+            "comment": "26位",
+            "speed": 6.24
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "14:25:16",
+            "time_second": 51916.0,
+            "time_second_prev": 32218.0,
+            "comment": "34位",
+            "speed": 4.62
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "B136",
+        "氏名": "土肥　靖弘",
+        "所属": "",
+        "部門順位": "",
+        "pace": "11:22.42",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "09:40:51",
+            "time_second": 34851.0,
+            "time_second_prev": 0,
+            "comment": "40位",
+            "speed": 5.76
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "15:22:24",
+            "time_second": 55344.0,
+            "time_second_prev": 34851.0,
+            "comment": "37位",
+            "speed": 4.44
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "B128",
+        "氏名": "篠山　慎二",
+        "所属": "",
+        "部門順位": "",
+        "pace": "12:49.71",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "10:51:02",
+            "time_second": 39062.0,
+            "time_second_prev": 0,
+            "comment": "43位",
+            "speed": 5.14
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "17:20:23",
+            "time_second": 62423.0,
+            "time_second_prev": 39062.0,
+            "comment": "40位",
+            "speed": 3.9
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "B104",
+        "氏名": "篠山　和子",
+        "所属": "",
+        "部門順位": "",
+        "pace": "12:49.75",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "10:51:10",
+            "time_second": 39070.0,
+            "time_second_prev": 0,
+            "comment": "44位",
+            "speed": 5.14
+          },
+          {
+            "leng": 81.1,
+            "length_prev": 55.8,
+            "time": "17:20:27",
+            "time_second": 62427.0,
+            "time_second_prev": 39070.0,
+            "comment": "41位",
+            "speed": 3.9
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "B133",
+        "氏名": "関屋　直之",
+        "所属": "SRC",
+        "部門順位": "",
+        "pace": "09:20.91",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "08:41:39",
+            "time_second": 31299.0,
+            "time_second_prev": 0,
+            "comment": "25位",
+            "speed": 6.42
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "B139",
+        "氏名": "長谷川　慎一",
+        "所属": "",
+        "部門順位": "",
+        "pace": "09:53.22",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "09:11:41",
+            "time_second": 33101.0,
+            "time_second_prev": 0,
+            "comment": "34位",
+            "speed": 6.07
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "B135",
+        "氏名": "田村　篤史",
+        "所属": "",
+        "部門順位": "",
+        "pace": "09:55.39",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "09:13:42",
+            "time_second": 33222.0,
+            "time_second_prev": 0,
+            "comment": "35位",
+            "speed": 6.05
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "B120",
+        "氏名": "大森　整",
+        "所属": "",
+        "部門順位": "",
+        "pace": "11:47.88",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "10:58:20",
+            "time_second": 39500.0,
+            "time_second_prev": 0,
+            "comment": "45位",
+            "speed": 5.09
+          }
+        ]
+      },
+      {
+        "順位": "途中棄権",
+        "ゼッケン": "B101",
+        "氏名": "岡田　明子",
+        "所属": "",
+        "部門順位": "",
+        "pace": "14:05.70",
+        "result": [
+          {
+            "leng": 0,
+            "length_prev": 0,
+            "time": "00:00:00",
+            "time_second": 0,
+            "time_second_prev": 0,
+            "comment": "スタート",
+            "speed": 0
+          },
+          {
+            "leng": 55.8,
+            "length_prev": 0,
+            "time": "13:06:30",
+            "time_second": 47190.0,
+            "time_second_prev": 0,
+            "comment": "46位",
+            "speed": 4.26
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+@import 'tailwindcss';
+
+@layer base {
+  body {
+    @apply bg-white dark:bg-gray-900;
+    touch-action: manipulation;
+    -webkit-text-size-adjust: 100%;
+  }
+}
+
+/* モバイルデバイスでのダブルタップによるズームを防止 */
+* {
+  touch-action: manipulation;
+}
+
+/* 既存のCSSスタイル（あれば）をここに保持 */

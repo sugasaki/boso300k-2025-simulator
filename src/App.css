@@ -1,0 +1,64 @@
+/* Reset default margin and padding */
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden; /* Prevent scrolling */
+}
+
+.app-container {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.map-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+}
+
+.overlay-container {
+  position: relative;
+  z-index: 10;
+  pointer-events: none; /* Allow clicks to pass through to the map */
+}
+
+.overlay-container > * {
+  pointer-events: auto; /* Re-enable pointer events for the actual components */
+}
+
+.play-container {
+  margin: 0.5rem;
+  bottom: 5.5rem;
+  left: 1rem;
+  right: 1rem;
+  z-index: 20; /* Ensure it's above other elements */
+}
+
+.header {
+  /* padding: 1rem; */
+  /* background-color: rgba(0, 0, 0, 0.5); */
+  /* color: white; */
+  /* border-radius: 0.5rem; */
+  margin: 1rem;
+}
+
+.control-panel {
+  /* background-color: rgba(255, 255, 255, 0.8); */
+  /* border-radius: 0.5rem; */
+  margin: 0.5rem;
+  /* margin: 1rem; */
+  /* box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); */
+}
+
+.dark .control-panel {
+  background-color: rgba(31, 41, 55, 0.8);
+}
