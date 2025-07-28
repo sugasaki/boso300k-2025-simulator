@@ -1,4 +1,4 @@
-import aidPointsJson from '../data/2025/2025-小江戸大江戸-CP.json';
+import aidPointsJson from '../data/2025/2025-房総半島300K-CP.json';
 import { importGeoJsonFiles } from './dynamicImport';
 import { GeoJSON, GeoJSONFeature } from '../types/geojson';
 
