@@ -43,6 +43,7 @@ export const useRaceStore = create<
     'B126', // 佐藤
     'B105', // 島田
     'B110', // 宮崎裕子
+    // 'B135', // 田村
   ],
   setRunnerIds: ids => set({ runnerIds: ids }),
   setCategoryNo: categoryNo => set({ categoryNo }),
