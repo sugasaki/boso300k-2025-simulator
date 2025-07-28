@@ -20,8 +20,8 @@ export const useMapStore = create<MapState>(set => ({
   personLocation: null,
   visibleCategories: [], // Initially all categories are visible (empty array means all visible)
   isTextLayerVisible: true, // Text layer is visible by default
-  pointSize: 100, // Default point size
-  fontSize: 14,
+  pointSize: 200, // Default point size
+  fontSize: 18,
   setPersonLocationData: data => set({ personLocation: data }),
 
   setVisibleCategories: categories => set({ visibleCategories: categories }),
