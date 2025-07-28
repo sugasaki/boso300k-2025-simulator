@@ -33,8 +33,8 @@
 
 ```bash
 # リポジトリのクローン
-git clone https://github.com/sugasaki/coedo-ooedo-2025-simulator.git
-cd coedo-ooedo-2025-simulator
+git clone https://github.com/sugasaki/boso300k-2025-simulator.git
+cd boso300k-2025-simulator
 
 # 依存関係のインストール
 pnpm install
