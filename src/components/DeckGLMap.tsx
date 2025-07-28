@@ -71,6 +71,16 @@ export const DeckGLMap = ({ width = '100%', height = '100%' }: Props) => {
     position: 'relative' as const,
   };
 
+  // 地図の移動・ズーム時のデバッグ用ハンドラー
+  const handleViewStateChange = (evt: any) => {
+    const { longitude, latitude, zoom } = evt.viewState;
+    console.log('🗺️ Map Center:', {
+      longitude: longitude.toFixed(6),
+      latitude: latitude.toFixed(6),
+      zoom: zoom.toFixed(2)
+    });
+  };
+
   //ツールチップを生成する
   const tooltipHandler = (item: any): string | null => {
     // console.log('item', item);
@@ -104,6 +114,7 @@ export const DeckGLMap = ({ width = '100%', height = '100%' }: Props) => {
         mapStyle={mapStyle}
         style={mapViewStyle}
         onLoad={handleLoad}
+        // onMove={handleViewStateChange}
       >
         {/* <GeolocateControl position="top-right" /> */} {/* 現在位置 */}
         <FullscreenControl position="top-right" />

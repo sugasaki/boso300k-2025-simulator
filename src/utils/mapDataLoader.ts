@@ -20,9 +20,9 @@ export const aidPointsData = aidPointsJson as unknown as GeoJSON;
  * 皇居の座標 (地図の初期表示位置)
  */
 export const IMPERIAL_PALACE_LOCATION = {
-  longitude: 139.482339983806,
-  latitude: 35.91942991130054,
-  zoom: 13,
+  longitude: 140.030454,
+  latitude: 35.205716,
+  zoom: 9,
   bearing: 0,
   pitch: 20,
 };
