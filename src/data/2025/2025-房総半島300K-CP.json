@@ -1,0 +1,291 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "スタート"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.116691133007,
+          35.5355093255639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CP1：恋人の聖地「たぬきのモニュメント」"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.91358403829,
+          35.3824735691861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CP2：木更津漁業協同組合 創立記念碑"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.91163201324,
+          35.3848853918318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CP3：志駒不動様の霊水"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.92953963589,
+          35.1916421117997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CP4：佐久間ダム湖親水公園「小出・高橋マラソン碑」"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.904059609188,
+          35.1275287501282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CP5：道の駅おおつの里"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.858083287474,
+          35.0524588673345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CP6：渚の駅たてやま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.855075128436,
+          34.9891763721847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CP7：洲崎神社"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.758061387075,
+          34.9680234927666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CP8：竜宮社"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.018232126005,
+          35.0370404142942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CP9：仁右衛門島"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.102172576042,
+          35.0777038990183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CP10：誕生寺"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.198165622631,
+          35.1179877815655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CP11：お万の方銅像"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.311098738367,
+          35.135481151824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CP12：岩船地蔵尊"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.392355493828,
+          35.2076570142837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CP13：玉前神社"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.360439853666,
+          35.3760149478887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CP14：おゆみ野あきのみち公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.180883603146,
+          35.5455857370798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "第1エイド：富津岬"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.786727243106,
+          35.3129361343976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "第2エイド：パクチー銀行"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.838072564453,
+          35.1409965287894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "第3エイド：滝口駐車場"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.875305830773,
+          34.9042369637708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "第4エイド：花の広場公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.023622250848,
+          35.0444440109188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "第5エイド：八幡岬公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.311567783356,
+          35.1367878913879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "第6エイド：みのりファーム"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.328966767036,
+          35.3767231418469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "第7エイド：小中池公園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2873208599,
+          35.5158894785066
+        ]
+      }
+    }
+  ]
+}
