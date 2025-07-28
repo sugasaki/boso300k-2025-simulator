@@ -9,15 +9,15 @@ export const useScatterplotLayer = () => {
     // 空の配列の場合は何も表示しない
     const filteredData = personLocation
       ? personLocation
-          .filter(
-            person =>
-              typeof person.categoryIndex === 'number' &&
-              visibleCategories.includes(person.categoryIndex)
-          )
-          .map(person => ({
-            ...person,
-            size: pointSize, // Apply the global point size to each point
-          }))
+        .filter(
+          person =>
+            typeof person.categoryIndex === 'number' &&
+            visibleCategories.includes(person.categoryIndex)
+        )
+        .map(person => ({
+          ...person,
+          size: pointSize, // Apply the global point size to each point
+        }))
       : [];
 
     const scatterplotLayer = new ScatterplotLayer({
@@ -33,11 +33,11 @@ export const useScatterplotLayer = () => {
       radiusMaxPixels: 100,
       lineWidthMinPixels: 0,
       getPosition: d => d.position,
-      getRadius: d => (d.distanceMeters > 210 ? d.size * 2 : d.size),
+      getRadius: d => d.size,
       getFillColor: d => d.color,
       getLineColor: d =>
         d.distanceMeters > 210 ? [0, 0, 0, 255] : [255, 0, 0, 0],
-      getLineWidth: d => (d.distanceMeters > 210 ? 4 : 0),
+      getLineWidth: 0,
     });
     return scatterplotLayer;
   };
