@@ -1,4 +1,5 @@
-import { GeoJsonLayer } from 'deck.gl';
+import { GeoJsonLayer, type GeoJsonLayerProps } from 'deck.gl';
+import { GeoJSON } from '../types/geojson';
 
 /**
  * GeoJSONデータからDeckGL用のGeoJsonLayerを生成する
@@ -7,14 +8,15 @@ import { GeoJsonLayer } from 'deck.gl';
  * @returns 設定済みのGeoJsonLayerインスタンス
  */
 export const createGeoJsonLayer = (
-  geojson: any,
+  geojson: GeoJSON,
   options: Partial<ConstructorParameters<typeof GeoJsonLayer>[0]> = {}
 ) => {
   const id = Math.random().toString(32).substring(2);
 
   return new GeoJsonLayer({
     id: 'geojson-layer' + id,
-    data: geojson,
+    // プロジェクトの GeoJSON 型は type を string で保持するため、deck.gl の期待する型へキャストする
+    data: geojson as unknown as GeoJsonLayerProps['data'],
     pickable: false,
     stroked: false,
     filled: true,
@@ -45,7 +47,7 @@ export const createGeoJsonLayer = (
  * @returns 設定済みのGeoJsonLayerインスタンス
  */
 export const createAidPointLayer = (
-  geojson: any,
+  geojson: GeoJSON,
   id: string = '',
   color: number[] = [255, 0, 0, 200],
   radius: number = 300,
@@ -53,7 +55,8 @@ export const createAidPointLayer = (
 ) => {
   return new GeoJsonLayer({
     id: 'aid-layer' + id,
-    data: geojson,
+    // プロジェクトの GeoJSON 型は type を string で保持するため、deck.gl の期待する型へキャストする
+    data: geojson as unknown as GeoJsonLayerProps['data'],
     pickable: true,
     stroked: false,
     filled: true,

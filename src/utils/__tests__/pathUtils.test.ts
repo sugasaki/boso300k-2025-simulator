@@ -1,5 +1,5 @@
 import { describe, it, expect, vi, beforeEach } from 'vitest';
-import { GeoJSONFeature } from 'maplibre-gl';
+import { GeoJSONFeature } from '../../types/geojson';
 import {
   calculate3DDistance,
   calculate3DDistanceFast,

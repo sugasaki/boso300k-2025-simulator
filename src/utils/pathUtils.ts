@@ -1,4 +1,4 @@
-import { GeoJSONFeature } from 'maplibre-gl';
+import { GeoJSONFeature } from '../types/geojson';
 
 /**
  * GeoJSON経路上の距離計算と位置算出用のユーティリティ関数
@@ -211,7 +211,7 @@ export const getCordinates = (feature: GeoJSONFeature): Coordinate3D[] => {
  * @returns 指定した距離における座標 [longitude, latitude, elevation] または null（データが無効な場合）
  */
 export const getPositionAtDistance = (
-  feature: any,
+  feature: GeoJSONFeature,
   distance: number
 ): PositionAtDistance => {
   try {
@@ -250,7 +250,7 @@ export const getPositionAtDistance = (
  * @param geojson GeoJSONデータ（LineString形式のFeatureCollectionを想定）
  * @returns 経路の総距離（メートル）または-1（データが無効な場合）
  */
-export const getTotalPathDistance = (feature: any): number => {
+export const getTotalPathDistance = (feature: GeoJSONFeature): number => {
   try {
     // キャッシュに存在する場合はそこから取得
     const cachedData = pathCache.get(feature);
