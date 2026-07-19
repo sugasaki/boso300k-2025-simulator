@@ -141,7 +141,7 @@ export const TimelineControl = ({
 
       // イベントリスナーが重複しないように一度削除してから追加
       timelineInstance.off('timechange');
-      timelineInstance.on('timechange', function (props: any) {
+      timelineInstance.on('timechange', function (props: { id: string | number; time: Date }) {
         if (props.id === customTimeId) {
           const timeInSeconds = Math.floor(props.time.getTime() / 1000);
           onTimeChange(timeInSeconds);

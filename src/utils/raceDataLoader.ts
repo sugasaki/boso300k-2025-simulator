@@ -25,7 +25,7 @@ export async function fetchAndStoreRaceData(path: string): Promise<void> {
       return {
         ...category,
         results: category.results.map(participant => {
-          // 全角スペース「　」で名前を分割
+          // 全角スペース（U+3000）で名前を分割
           const nameParts = participant.氏名.split('　');
           let lastName = '';
           let firstName = '';

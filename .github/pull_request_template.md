@@ -1,24 +1,12 @@
-<!-- Issue 番号がない PR は受け付けません。 -->
-<!-- We don't accept PRs which has no Issue ID. -->
+作成者: <!-- 例: Claude Code / Codex (GPT-5) / GLM (Z.AI) / Kimi Code CLI。エージェント以外が作成した場合は削除可 -->
 
-## 👏 解決する issue / Resolved Issues
+## 変更理由
+<!-- 何のために / どの問題を解決するか -->
+-
 
-- close #0
+## 変更内容
+<!-- 主な変更点 -->
+-
 
-## 📝 関連する issue / Related Issues
-
-- #0
-
-## ⛏ 変更内容 / Details of Changes
-
-<!-- 変更を端的に箇条書きで -->
-<!-- List down your changes concisely -->
-
-- xxxxxx
-
-## 📸 スクリーンショット / Screenshots
-
-<!-- スタイルなどの変更の場合はスクリーンショットがあるとレビューしやすいです -->
-<!-- Changes in styles would be easier to review with screenshots! -->
-
-## 👀 Check
+<!-- Issue 連動があればコメントを外し、番号を変更（例: Closes #12） -->
+<!-- Closes #12 -->

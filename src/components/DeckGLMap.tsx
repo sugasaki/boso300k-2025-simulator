@@ -4,6 +4,7 @@ import {
   Map,
   NavigationControl,
 } from 'react-map-gl/maplibre';
+import type { PickingInfo } from 'deck.gl';
 import { DeckGLOverlay } from './DeckGLOverlay';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import { useScatterplotLayer } from '../hooks/useScatterplotLayer';
@@ -48,7 +49,7 @@ export const DeckGLMap = ({ width = '100%', height = '100%' }: Props) => {
   const layers = isTextLayerVisible ? [textLayer, ...baseLayers] : baseLayers;
 
   // マップ読み込み完了時
-  const handleLoad = (event: any) => {
+  const handleLoad = (event: { target: maplibregl.Map }) => {
     const map = event.target;
     setMapInstance(map);
 
@@ -62,7 +63,7 @@ export const DeckGLMap = ({ width = '100%', height = '100%' }: Props) => {
         adjustMapBounds(mapInstance, courseData);
       }, 100);
     }
-  }, [courseData, mapInstance]);
+  }, [mapInstance]);
 
   // マップコンテナのスタイル
   const mapViewStyle = {
@@ -82,7 +83,7 @@ export const DeckGLMap = ({ width = '100%', height = '100%' }: Props) => {
   // };
 
   //ツールチップを生成する
-  const tooltipHandler = (item: any): string | null => {
+  const tooltipHandler = (item: PickingInfo): string | null => {
     // console.log('item', item);
     if (!item || !item.layer || !item.layer.id) return null;
 
