@@ -28,3 +28,10 @@ dist-ssr
 .env.local
 
 
+
+# --- agent-project-template ---
+node_modules/
+dist/
+.env.*.local
+.claude/*
+!.claude/skills/
